@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fbca885b946d4a158e2c770b23dfcca, type: 3}
+  m_Name: TileAtlas
+  m_EditorClassIdentifier: 
+  dirt: {fileID: 11400000, guid: 5154b2cd20ee24b2a80a3a4b1dfc43ef, type: 2}
+  lava: {fileID: 11400000, guid: 963b09e1ba4ed4d4eba104bc52bdb087, type: 2}
+  bedrock: {fileID: 11400000, guid: 5c31a90b59c79472db562601d4dd4e5f, type: 2}
+  rock: {fileID: 11400000, guid: 462b05409574746ba83a1ae7f21fccbf, type: 2}
+  whiteDoor: {fileID: 11400000, guid: 4e7d8eb84ee244290afb223e2ab8144d, type: 2}
+  caveBackground: {fileID: 11400000, guid: 3aa4d67bdc40f4ca59ae3666e45ddf68, type: 2}
+  woodenBlock: {fileID: 11400000, guid: 8d64df99b1d3c4927a591bf252662a88, type: 2}
+  woodenBackground: {fileID: 11400000, guid: b633f02156e32401a911a4122a0c9d57, type: 2}
