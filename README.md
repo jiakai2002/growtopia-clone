@@ -1,6 +1,6 @@
 # Growtopia Clone
 
-https://github.com/jiakai2002/Growtopia-clone/assets/96972856/3bc01503-5b5a-4c54-8d10-887fd526a3bc
+![gt](https://github.com/user-attachments/assets/88f233c9-362d-4d14-9cd0-17debc53c200)
 
 ## Overview
 This project is a simple 2D game clone inspired by Growtopia, developed using C# and the Unity engine. Players can explore a vibrant world, interact with their environment, and build their unique creations. 
